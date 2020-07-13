@@ -1,2 +1,4 @@
 # DSA-Hashing
-Hashing Practice Problems
+Contains DSA hashing codes.. Contains Codes for completed functions only
+
+
